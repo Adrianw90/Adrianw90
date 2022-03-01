@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adrianw90
 - 👀 I’m interested in ...coding, gaming, reading, working out.
-- 🌱 I’m currently becoming more proficient in ...python programming
+- 🌱 I’m currently becoming more proficient in ...python, html, and css.
 - 💞️ I’m looking to collaborate on ...projects solving real world problems
 - 📫 How to reach me ...adriandwhitehurst@gmail.com
 
